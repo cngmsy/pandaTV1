@@ -1,182 +1,230 @@
 [
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\black_background.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\10d96b4712737bad248b9096cf0496b0fce404a0\\output\\res\\drawable\\black_background.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_progress.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\65975503f3435decd08b68cf10f8eacd732c61c7\\output\\res\\drawable\\video_progress.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_drawable_white.xml",
-        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\drawable\\progress_drawable_white.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white_radius.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\db82ecd0356836ba24340d18d92a6241ba869411\\output\\res\\drawable\\white_radius.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_progress.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99ec2c96030a03935f01db34febd3f76f4401681\\output\\res\\drawable\\seek_progress.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\bd0432195b3ae7d629732d6ec16f63b0bf2a09dd\\output\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\click_video_error_selector.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99ec2c96030a03935f01db34febd3f76f4401681\\output\\res\\drawable\\click_video_error_selector.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\click_video_error_selector.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\65975503f3435decd08b68cf10f8eacd732c61c7\\output\\res\\drawable\\click_video_error_selector.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loadding.xml",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\drawable\\loadding.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressloading.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6f58b42f212e279dbb8fe72c3241784c55b4fc41\\output\\res\\drawable\\progressloading.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\click_video_pause_selector.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99ec2c96030a03935f01db34febd3f76f4401681\\output\\res\\drawable\\click_video_pause_selector.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_gradient_bg.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99ec2c96030a03935f01db34febd3f76f4401681\\output\\res\\drawable\\title_gradient_bg.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_count_smss.xml",
-        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\drawable\\bg_count_smss.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_radius.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\10d96b4712737bad248b9096cf0496b0fce404a0\\output\\res\\drawable\\gray_radius.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_thumb_normal.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99ec2c96030a03935f01db34febd3f76f4401681\\output\\res\\drawable\\seek_thumb_normal.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\click_video_pause_selector.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\65975503f3435decd08b68cf10f8eacd732c61c7\\output\\res\\drawable\\click_video_pause_selector.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_progress.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99ec2c96030a03935f01db34febd3f76f4401681\\output\\res\\drawable\\video_progress.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_thumb.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\65975503f3435decd08b68cf10f8eacd732c61c7\\output\\res\\drawable\\seek_thumb.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_progress.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\65975503f3435decd08b68cf10f8eacd732c61c7\\output\\res\\drawable\\seek_progress.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\click_video_play_selector.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99ec2c96030a03935f01db34febd3f76f4401681\\output\\res\\drawable\\click_video_play_selector.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white_radius.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\10d96b4712737bad248b9096cf0496b0fce404a0\\output\\res\\drawable\\white_radius.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressloading.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\a61ce19d4e27f30b0e9ed1b0b5a4b2bd15afaaa3\\output\\res\\drawable\\progressloading.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_loading.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99ec2c96030a03935f01db34febd3f76f4401681\\output\\res\\drawable\\video_loading.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_gradient_bg.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\65975503f3435decd08b68cf10f8eacd732c61c7\\output\\res\\drawable\\title_gradient_bg.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loadding.xml",
-        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\drawable\\loadding.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_thumb_normal.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\65975503f3435decd08b68cf10f8eacd732c61c7\\output\\res\\drawable\\seek_thumb_normal.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_thumb.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99ec2c96030a03935f01db34febd3f76f4401681\\output\\res\\drawable\\seek_thumb.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_loading.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\65975503f3435decd08b68cf10f8eacd732c61c7\\output\\res\\drawable\\video_loading.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\black_background.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\db82ecd0356836ba24340d18d92a6241ba869411\\output\\res\\drawable\\black_background.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\click_video_play_selector.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\65975503f3435decd08b68cf10f8eacd732c61c7\\output\\res\\drawable\\click_video_play_selector.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\11abb9ef32ac1e474e4b83708e7c0bd534369502\\output\\res\\drawable\\design_fab_background.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_count_smss.xml",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\drawable\\bg_count_smss.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_thumb_press.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99ec2c96030a03935f01db34febd3f76f4401681\\output\\res\\drawable\\seek_thumb_press.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\11abb9ef32ac1e474e4b83708e7c0bd534369502\\output\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\bd0432195b3ae7d629732d6ec16f63b0bf2a09dd\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_thumb_press.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\65975503f3435decd08b68cf10f8eacd732c61c7\\output\\res\\drawable\\seek_thumb_press.xml"
+    },
+    {
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_drawable_white.xml",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\drawable\\progress_drawable_white.xml"
+    },
+    {
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_radius.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\db82ecd0356836ba24340d18d92a6241ba869411\\output\\res\\drawable\\gray_radius.xml"
+    },
+    {
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\drawable\\notification_bg.xml"
     }
 ]

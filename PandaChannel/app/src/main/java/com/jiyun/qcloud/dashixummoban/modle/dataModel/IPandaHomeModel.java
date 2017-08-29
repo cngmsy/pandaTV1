@@ -2,6 +2,7 @@ package com.jiyun.qcloud.dashixummoban.modle.dataModel;
 
 
 import com.jiyun.qcloud.dashixummoban.entity.PandaHome;
+import com.jiyun.qcloud.dashixummoban.modle.baseModel.BaseModel;
 import com.jiyun.qcloud.dashixummoban.modle.net.callback.NetWorkCallBack;
 
 /**

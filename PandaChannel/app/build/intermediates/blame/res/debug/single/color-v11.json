@@ -1,10 +1,10 @@
 [
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

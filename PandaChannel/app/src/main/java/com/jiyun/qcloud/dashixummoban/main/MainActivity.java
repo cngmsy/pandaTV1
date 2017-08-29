@@ -1,6 +1,5 @@
 package com.jiyun.qcloud.dashixummoban.main;
 
-import android.content.Intent;
 import android.support.v4.app.FragmentManager;
 import android.view.KeyEvent;
 import android.view.View;
@@ -12,19 +11,15 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.jiyun.qcloud.dashixummoban.R;
-import com.jiyun.qcloud.dashixummoban.activity.PersonalActivity;
 import com.jiyun.qcloud.dashixummoban.app.App;
 import com.jiyun.qcloud.dashixummoban.base.BaseActivity;
 import com.jiyun.qcloud.dashixummoban.base.BaseFragment;
-import com.jiyun.qcloud.dashixummoban.campaign.CampaignActivity;
 import com.jiyun.qcloud.dashixummoban.manager.ActivityCollector;
 import com.jiyun.qcloud.dashixummoban.manager.FragmentMager;
-import com.jiyun.qcloud.dashixummoban.ui.broadcast.BroadPageFragment;
-import com.jiyun.qcloud.dashixummoban.ui.broadcast.BroadPresenter;
-import com.jiyun.qcloud.dashixummoban.ui.gungun.GunPageFragment;
-import com.jiyun.qcloud.dashixummoban.ui.gungun.GunPresenter;
 import com.jiyun.qcloud.dashixummoban.ui.home.HomePageFragment;
+import com.jiyun.qcloud.dashixummoban.ui.home.HomePresenter;
 import com.jiyun.qcloud.dashixummoban.ui.live.LivePageFragment;
+import com.jiyun.qcloud.dashixummoban.ui.live.LivePresenter;
 import com.orhanobut.logger.Logger;
 
 import butterknife.BindView;
@@ -61,33 +56,18 @@ public class MainActivity extends BaseActivity {
     RadioGroup homeBottomGroup;
     private FragmentManager fragmentManager;
     private long mExitTime;
-    public static final int HOMETYPE = 1;
 
     @Override
     protected void initData() {
         fragmentManager = App.mBaseActivity.getSupportFragmentManager();
-        GunPageFragment gunFragment = (GunPageFragment) FragmentMager.getInstance().start(R.id.container, GunPageFragment.class, false).build();
-        new GunPresenter(gunFragment);
-        BroadPageFragment broadFragment = (BroadPageFragment) FragmentMager.getInstance().start(R.id.container, BroadPageFragment.class, false).build();
-        new BroadPresenter(broadFragment);
+        HomePageFragment homeFragment = (HomePageFragment) FragmentMager.getInstance().start(R.id.container, HomePageFragment.class, false).build();
+        //presenter在这里初始化
+        new HomePresenter(homeFragment);
     }
 
     @Override
     protected void initView() {
-        hudongImg.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent intent = new Intent(App.mBaseActivity, CampaignActivity.class);
-                startActivity(intent);
-            }
-        });
-        personImg.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent intent = new Intent(App.mBaseActivity, PersonalActivity.class);
-                startActivity(intent);
-            }
-        });
+
     }
 
     @Override
@@ -104,32 +84,16 @@ public class MainActivity extends BaseActivity {
                 Logger.d("22222");
                 break;
             case R.id.homePandaLive:
-                FragmentMager.getInstance().start(R.id.container, LivePageFragment.class, false).build();
+                LivePageFragment livePageFragment = (LivePageFragment) FragmentMager.getInstance().start(R.id.container, LivePageFragment.class,false).build();
+                new LivePresenter(livePageFragment);
                 Logger.d("33333");
                 break;
             case R.id.homeRollVideo:
-                showTitle("滚滚视频", 0);
-                FragmentMager.getInstance().start(R.id.container, GunPageFragment.class, false).build();
                 break;
             case R.id.homePandaBroadcast:
-                showTitle("熊猫播报", 0);
-                FragmentMager.getInstance().start(R.id.container, BroadPageFragment.class, false).build();
                 break;
             case R.id.homeLiveChina:
                 break;
-        }
-    }
-
-    private void showTitle(String title, int type) {
-        if (type == HOMETYPE) {
-            iconImg.setVisibility(View.VISIBLE);
-            titleTv.setVisibility(View.GONE);
-            hudongImg.setVisibility(View.VISIBLE);
-        } else {
-            titleTv.setText(title);
-            iconImg.setVisibility(View.GONE);
-            titleTv.setVisibility(View.VISIBLE);
-            hudongImg.setVisibility(View.GONE);
         }
     }
 

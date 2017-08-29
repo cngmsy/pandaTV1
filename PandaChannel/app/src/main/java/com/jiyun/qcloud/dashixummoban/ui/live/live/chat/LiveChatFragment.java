@@ -3,6 +3,7 @@ package com.jiyun.qcloud.dashixummoban.ui.live.live.chat;
 import android.os.Bundle;
 import android.view.View;
 
+import com.jiyun.qcloud.dashixummoban.R;
 import com.jiyun.qcloud.dashixummoban.base.BaseFragment;
 
 /**
@@ -12,7 +13,7 @@ import com.jiyun.qcloud.dashixummoban.base.BaseFragment;
 public class LiveChatFragment extends BaseFragment {
     @Override
     protected int getLayoutRes() {
-        return 0;
+        return R.layout.fragment_chat;
     }
 
     @Override

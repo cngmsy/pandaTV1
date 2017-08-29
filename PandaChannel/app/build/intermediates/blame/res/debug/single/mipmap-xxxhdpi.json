@@ -1,6 +1,14 @@
 [
     {
-        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
-        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\stop.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\mipmap-xxxhdpi\\stop.png"
+    },
+    {
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\start.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\mipmap-xxxhdpi\\start.png"
+    },
+    {
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     }
 ]

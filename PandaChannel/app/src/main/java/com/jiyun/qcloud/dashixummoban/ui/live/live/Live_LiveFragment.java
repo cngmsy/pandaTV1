@@ -1,6 +1,5 @@
 package com.jiyun.qcloud.dashixummoban.ui.live.live;
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.TabLayout;
 import android.support.v4.app.Fragment;
@@ -12,14 +11,13 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.jiyun.qcloud.dashixummoban.R;
-import com.jiyun.qcloud.dashixummoban.app.App;
 import com.jiyun.qcloud.dashixummoban.base.BaseFragment;
 import com.jiyun.qcloud.dashixummoban.entity.LiveLive;
 import com.jiyun.qcloud.dashixummoban.entity.MoreLive;
 import com.jiyun.qcloud.dashixummoban.entity.MoreLiveITT;
 import com.jiyun.qcloud.dashixummoban.modle.net.OkBaseHttpImpl;
 import com.jiyun.qcloud.dashixummoban.modle.net.callback.NetWorkCallBack;
-import com.jiyun.qcloud.dashixummoban.ui.live.activity.PlayVideoActivity;
+import com.jiyun.qcloud.dashixummoban.ui.live.live.chat.LiveChatFragment;
 import com.jiyun.qcloud.dashixummoban.ui.live.live.moreLive.MoreLiveFragment;
 
 import org.greenrobot.eventbus.EventBus;
@@ -69,8 +67,8 @@ public class Live_LiveFragment extends BaseFragment implements Live_LiveContract
     protected void initView(View view) {
         EventBus.getDefault().register(this);
         moreLiveFragment = new MoreLiveFragment();
-//        jcVideoPlayer.setUp("http://ipanda.vtime.cntv.cloudcdn.net:8000/live/flv/channel54?AUTH=teDlZleeu77yw1ZT2SvlPM8boVgF3ImzAm07ij5B8lJwSRQkJ8UscT/YH4b6RAgscurpO5XtQXsnoQoInNKdfw==", "");
-        startActivity(new Intent(App.mBaseActivity, PlayVideoActivity.class));
+        jcVideoPlayer.setUp("http://ipanda.vtime.cntv.cloudcdn.net:8000/live/flv/channel54?AUTH=teDlZleeu77yw1ZT2SvlPM8boVgF3ImzAm07ij5B8lJwSRQkJ8UscT/YH4b6RAgscurpO5XtQXsnoQoInNKdfw==", "");
+//        startActivity(new Intent(App.mBaseActivity, PlayVideoActivity.class));
     }
 
     @Override
@@ -111,7 +109,7 @@ public class Live_LiveFragment extends BaseFragment implements Live_LiveContract
         List<LiveLive.BookmarkBean.WatchTalkBean> watchTalk = bookmark.getWatchTalk();
         titles.add(watchTalk.get(0).getTitle());
         fragments.add(moreLiveFragment);
-        fragments.add(new Fragment());
+        fragments.add(new LiveChatFragment());
 
         mViewpager.setAdapter(new FragmentPagerAdapter(getFragmentManager()) {
             @Override

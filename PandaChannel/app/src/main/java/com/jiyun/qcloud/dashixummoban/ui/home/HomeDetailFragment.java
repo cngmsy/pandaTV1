@@ -11,7 +11,8 @@ import com.jiyun.qcloud.dashixummoban.base.BaseFragment;
  * Created by chj on 2017/8/21.
  */
 
-public class HomeDetailFragment extends BaseFragment {
+public class HomeDetailFragment extends BaseFragment
+{
     @Override
     protected int getLayoutRes() {
         return R.layout.fragment_livess;
