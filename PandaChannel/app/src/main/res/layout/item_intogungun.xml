@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/iv_item_intogungun"
+        android:layout_margin="40px"
+        android:layout_width="400px"
+        android:layout_height="250px"
+        />
+    <TextView
+        android:id="@+id/tv_intogungun_title"
+        android:layout_toRightOf="@id/iv_item_intogungun"
+        android:textSize="18sp"
+        android:textColor="#000"
+        android:layout_marginTop="60px"
+        android:layout_marginRight="15px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/tv_intogungun_date"
+        android:layout_toRightOf="@id/iv_item_intogungun"
+        android:layout_alignBottom="@id/iv_item_intogungun"
+        android:textSize="14sp"
+        android:textColor="#C4C4C4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</RelativeLayout>

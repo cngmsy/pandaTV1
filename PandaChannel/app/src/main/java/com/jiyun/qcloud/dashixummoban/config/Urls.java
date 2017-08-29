@@ -37,4 +37,8 @@ public class Urls {
     public static final String PROGREM = "http://api.cntv.cn/video/videolistById?vsid=VSET100167308855&n=7&serviceId=panda&o=desc&of=time&p=1";
     //原创新闻
     public static final String NEWS = "http://api.cntv.cn/video/videolistById?vsid=VSET100219009515&n=7&serviceId=panda&o=desc&of=time&p=1";
+
+    public static final String CCTVLIST = "http://www.ipanda.com/kehuduan/shipinliebieye/jingcaiyike/index.json";
+
+    public static final String GUNGUN = "http://www.ipanda.com/kehuduan/shipinliebieye/video/index.json";
 }

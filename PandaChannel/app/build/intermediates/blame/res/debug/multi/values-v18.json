@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\.android\\build-cache\\b6aad45c2f2c4c01c499f44aeb87e821ae0e0bf6\\output\\res\\values-v18\\values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    }
+]
