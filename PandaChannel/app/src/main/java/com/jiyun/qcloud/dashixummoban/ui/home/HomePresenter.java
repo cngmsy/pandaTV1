@@ -5,8 +5,6 @@ import com.jiyun.qcloud.dashixummoban.entity.PandaHome;
 import com.jiyun.qcloud.dashixummoban.modle.dataModel.IPandaHomeModel;
 import com.jiyun.qcloud.dashixummoban.modle.dataModel.PandaHomeModelImpl;
 import com.jiyun.qcloud.dashixummoban.modle.net.callback.NetWorkCallBack;
-import com.jiyun.qcloud.dashixummoban.ui.home.entity.InToCctvBean;
-import com.jiyun.qcloud.dashixummoban.ui.home.entity.InToGunGunBean;
 
 /**
  * Created by xingge on 2017/7/26.
@@ -33,41 +31,6 @@ public class HomePresenter implements HomeContract.Presenter {
             @Override
             public void onSuccess(PandaHome pandaHome) {
                 homeView.showHomeListData(pandaHome);
-                homeView.dimissProgress();
-            }
-            @Override
-            public void onError(int errorCode, String errorMsg) {
-                homeView.showMessage(errorMsg);
-                homeView.dimissProgress();
-            }
-
-            @Override
-            public void onFail(String netOff) {
-
-            }
-        });
-        homeModel.loadCctvList(new NetWorkCallBack<InToCctvBean>() {
-            @Override
-            public void onSuccess(InToCctvBean inToCctvBean) {
-                homeView.showCctvListData(inToCctvBean);
-                homeView.dimissProgress();
-            }
-
-            @Override
-            public void onError(int errorCode, String errorMsg) {
-                homeView.showMessage(errorMsg);
-                homeView.dimissProgress();
-            }
-
-            @Override
-            public void onFail(String netOff) {
-
-            }
-        });
-        homeModel.loadGunGunList(new NetWorkCallBack<InToGunGunBean>() {
-            @Override
-            public void onSuccess(InToGunGunBean gunGunBean) {
-                homeView.showGunGunListData(gunGunBean);
                 homeView.dimissProgress();
             }
 

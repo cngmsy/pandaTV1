@@ -1,10 +1,14 @@
 [
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
-        "source": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\go_back.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\mipmap-xxhdpi\\go_back.png"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\go_back.png",
-        "source": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\src\\main\\res\\mipmap-xxhdpi\\go_back.png"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\sound.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\mipmap-xxhdpi\\sound.png"
     }
 ]

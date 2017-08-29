@@ -25,43 +25,43 @@ public final class R {
         public static final int click_video_pause_selector = 0x7f02006c;
         public static final int click_video_play_selector = 0x7f02006d;
         public static final int enlarge_video = 0x7f02008c;
-        public static final int ic_back_white = 0x7f02009a;
-        public static final int new_pause_video = 0x7f0200d7;
-        public static final int new_pause_video_press = 0x7f0200d8;
-        public static final int new_play_error = 0x7f0200d9;
-        public static final int new_play_error_press = 0x7f0200da;
-        public static final int new_play_video = 0x7f0200db;
-        public static final int new_play_video_press = 0x7f0200dc;
-        public static final int seek_progress = 0x7f020106;
-        public static final int seek_thumb = 0x7f020107;
-        public static final int seek_thumb_normal = 0x7f020108;
-        public static final int seek_thumb_press = 0x7f020109;
-        public static final int shrink_video = 0x7f02010c;
-        public static final int title_gradient_bg = 0x7f02011c;
-        public static final int video_loading = 0x7f020125;
-        public static final int video_loading_icon = 0x7f020126;
-        public static final int video_progress = 0x7f020127;
+        public static final int ic_back_white = 0x7f020099;
+        public static final int new_pause_video = 0x7f0200d6;
+        public static final int new_pause_video_press = 0x7f0200d7;
+        public static final int new_play_error = 0x7f0200d8;
+        public static final int new_play_error_press = 0x7f0200d9;
+        public static final int new_play_video = 0x7f0200da;
+        public static final int new_play_video_press = 0x7f0200db;
+        public static final int seek_progress = 0x7f020105;
+        public static final int seek_thumb = 0x7f020106;
+        public static final int seek_thumb_normal = 0x7f020107;
+        public static final int seek_thumb_press = 0x7f020108;
+        public static final int shrink_video = 0x7f02010b;
+        public static final int title_gradient_bg = 0x7f02011b;
+        public static final int video_loading = 0x7f020124;
+        public static final int video_loading_icon = 0x7f020125;
+        public static final int video_progress = 0x7f020126;
     }
     public static final class id {
         public static final int back = 0x7f0d00b3;
-        public static final int bottom_control = 0x7f0d0127;
-        public static final int bottom_progressbar = 0x7f0d012c;
-        public static final int cover = 0x7f0d0125;
-        public static final int current = 0x7f0d0128;
-        public static final int fullscreen = 0x7f0d012b;
+        public static final int bottom_control = 0x7f0d0113;
+        public static final int bottom_progressbar = 0x7f0d0118;
+        public static final int cover = 0x7f0d0111;
+        public static final int current = 0x7f0d0114;
+        public static final int fullscreen = 0x7f0d0117;
         public static final int jcvideoplayer = 0x7f0d00a5;
-        public static final int loading = 0x7f0d012e;
-        public static final int parentview = 0x7f0d0124;
-        public static final int progress = 0x7f0d0129;
+        public static final int loading = 0x7f0d011a;
+        public static final int parentview = 0x7f0d0110;
+        public static final int progress = 0x7f0d0115;
         public static final int start = 0x7f0d0063;
-        public static final int thumb = 0x7f0d0126;
+        public static final int thumb = 0x7f0d0112;
         public static final int title = 0x7f0d007e;
-        public static final int title_container = 0x7f0d012d;
-        public static final int total = 0x7f0d012a;
+        public static final int title_container = 0x7f0d0119;
+        public static final int total = 0x7f0d0116;
     }
     public static final class layout {
         public static final int activity_fullscreen = 0x7f04001a;
-        public static final int video_control_view = 0x7f04005c;
+        public static final int video_control_view = 0x7f040052;
     }
     public static final class string {
         public static final int app_name = 0x7f070028;

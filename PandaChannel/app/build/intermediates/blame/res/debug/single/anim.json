@@ -1,66 +1,66 @@
 [
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\admin\\.android\\build-cache\\b6aad45c2f2c4c01c499f44aeb87e821ae0e0bf6\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\bd0432195b3ae7d629732d6ec16f63b0bf2a09dd\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\admin\\.android\\build-cache\\b6aad45c2f2c4c01c499f44aeb87e821ae0e0bf6\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\admin\\.android\\build-cache\\b6aad45c2f2c4c01c499f44aeb87e821ae0e0bf6\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\admin\\.android\\build-cache\\b6aad45c2f2c4c01c499f44aeb87e821ae0e0bf6\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\admin\\.android\\build-cache\\aa25f9e3af6b9edad2d05e2baba792d3450bb4e5\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\bd0432195b3ae7d629732d6ec16f63b0bf2a09dd\\output\\res\\anim\\design_snackbar_in.xml"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\admin\\.android\\build-cache\\aa25f9e3af6b9edad2d05e2baba792d3450bb4e5\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "C:\\Users\\admin\\.android\\build-cache\\aa25f9e3af6b9edad2d05e2baba792d3450bb4e5\\output\\res\\anim\\design_fab_out.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\admin\\.android\\build-cache\\aa25f9e3af6b9edad2d05e2baba792d3450bb4e5\\output\\res\\anim\\design_snackbar_out.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\admin\\.android\\build-cache\\b6aad45c2f2c4c01c499f44aeb87e821ae0e0bf6\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\bd0432195b3ae7d629732d6ec16f63b0bf2a09dd\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\admin\\.android\\build-cache\\b6aad45c2f2c4c01c499f44aeb87e821ae0e0bf6\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\bd0432195b3ae7d629732d6ec16f63b0bf2a09dd\\output\\res\\anim\\design_fab_out.xml"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\admin\\.android\\build-cache\\b6aad45c2f2c4c01c499f44aeb87e821ae0e0bf6\\output\\res\\anim\\abc_popup_exit.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\admin\\.android\\build-cache\\b6aad45c2f2c4c01c499f44aeb87e821ae0e0bf6\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "C:\\Users\\admin\\.android\\build-cache\\aa25f9e3af6b9edad2d05e2baba792d3450bb4e5\\output\\res\\anim\\design_fab_in.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\admin\\.android\\build-cache\\b6aad45c2f2c4c01c499f44aeb87e821ae0e0bf6\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\bd0432195b3ae7d629732d6ec16f63b0bf2a09dd\\output\\res\\anim\\design_fab_in.xml"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\admin\\.android\\build-cache\\b6aad45c2f2c4c01c499f44aeb87e821ae0e0bf6\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\bd0432195b3ae7d629732d6ec16f63b0bf2a09dd\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\admin\\.android\\build-cache\\aa25f9e3af6b9edad2d05e2baba792d3450bb4e5\\output\\res\\anim\\design_snackbar_in.xml"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\anim\\abc_slide_in_top.xml"
     }
 ]

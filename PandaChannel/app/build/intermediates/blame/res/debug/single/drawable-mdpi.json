@@ -1,86 +1,86 @@
 [
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_button_like_icon_selected.png",
-        "source": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_button_like_icon_selected.png"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_black_xout.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_black_xout.png"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_button_icon.png",
-        "source": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_button_icon.png"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_button_like_icon_selected.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_button_like_icon_selected.png"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_profile_picture_blank_portrait.png",
-        "source": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_profile_picture_blank_portrait.png"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_blue_xout.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_blue_xout.png"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_black_bottomnub.png",
-        "source": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_black_bottomnub.png"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_black_topnub.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_black_topnub.png"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_blue_background.9.png",
-        "source": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_blue_background.9.png"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_close.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_close.png"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_blue_xout.png",
-        "source": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_blue_xout.png"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_button_icon.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_button_icon.png"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_black_xout.png",
-        "source": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_black_xout.png"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\messenger_button_send_round_shadow.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\messenger_button_send_round_shadow.png"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\messenger_bubble_small_white.png",
-        "source": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\messenger_bubble_small_white.png"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\messenger_bubble_large_white.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\messenger_bubble_large_white.png"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_blue_topnub.png",
-        "source": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_blue_topnub.png"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_blue_background.9.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_blue_background.9.png"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
-        "source": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_black_bottomnub.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_black_bottomnub.png"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\logo_ipnda.png",
-        "source": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\logo_ipnda.png"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_profile_picture_blank_square.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_profile_picture_blank_square.png"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_button_send_icon.png",
-        "source": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_button_send_icon.png"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\messenger_bubble_large_blue.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\messenger_bubble_large_blue.png"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_black_background.9.png",
-        "source": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_black_background.9.png"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_profile_picture_blank_portrait.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_profile_picture_blank_portrait.png"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\messenger_button_send_round_shadow.png",
-        "source": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\messenger_button_send_round_shadow.png"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_black_background.9.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_black_background.9.png"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_black_topnub.png",
-        "source": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_black_topnub.png"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\messenger_bubble_small_blue.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\messenger_bubble_small_blue.png"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\messenger_bubble_large_white.png",
-        "source": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\messenger_bubble_large_white.png"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\logo_ipnda.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\logo_ipnda.png"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_profile_picture_blank_square.png",
-        "source": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_profile_picture_blank_square.png"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\messenger_bubble_large_blue.png",
-        "source": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\messenger_bubble_large_blue.png"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\messenger_bubble_small_white.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\messenger_bubble_small_white.png"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\messenger_bubble_small_blue.png",
-        "source": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\messenger_bubble_small_blue.png"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_button_send_icon.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_button_send_icon.png"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_close.png",
-        "source": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_close.png"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_blue_topnub.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_blue_topnub.png"
     },
     {
-        "merged": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_blue_bottomnub.png",
-        "source": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_blue_bottomnub.png"
+        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_blue_bottomnub.png",
+        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_blue_bottomnub.png"
     }
 ]

@@ -1,4 +1,7 @@
-#Tue Aug 29 11:40:08 CST 2017
-base.0=D\:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Tue Aug 29 09:33:34 CST 2017
+base.0=E\:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1c534086a8df6831b2a8b59d6964ad45d5617c9f
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=D\:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=E\:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c3fe3ca91f0244f017d059b971b9bbb4ef37cf40\\classes.dex
+base.1=E\:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c3fe3ca91f0244f017d059b971b9bbb4ef37cf40
+file.0=E\:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1c534086a8df6831b2a8b59d6964ad45d5617c9f\\classes.dex

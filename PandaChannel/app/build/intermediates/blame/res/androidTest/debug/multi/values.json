@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\MySpaces\\pandaTV1\\PandaChannel\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "C:\\Users\\admin\\.android\\build-cache\\308becf3307e2ff2b6df40fe8e69adf24a026824\\output\\res\\values\\values.xml",
+                    "file": "C:\\Users\\99477\\.android\\build-cache\\ab1022e5fe996f9e54f4564fb0bf046a38becea4\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
