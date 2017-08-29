@@ -18,21 +18,30 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".ui.live.activity.VideoActivity"
-            android:configChanges="orientation|screenSize|keyboardHidden"
-            android:screenOrientation="landscape" />
-        <activity
-            android:name=".ui.live.activity.PlayVideoActivity"
-            android:configChanges="orientation|screenSize|keyboardHidden"
-            android:screenOrientation="landscape" />
-        //屏幕适配
+
         <meta-data
             android:name="design_width"
             android:value="768" />
         <meta-data
             android:name="design_height"
             android:value="1280" />
+
+        <activity android:name=".activity.PersonalActivity"></activity>
+        <activity android:name=".activity.LoginActivity"></activity>
+        <activity android:name=".activity.RegistActivity"></activity>
+        <activity android:name=".activity.ForgetActivity"></activity>
+        <activity android:name=".activity.HistoryActivity"></activity>
+        <activity android:name=".activity.CollectionActivity"></activity>
+        <activity android:name=".activity.SetActivity"></activity>
+        <activity android:name=".activity.AboutActivity"></activity>
+        <activity android:name=".ui.broadcast.activity.BroadWebActivity"></activity>
+        <activity android:name=".ui.gungun.activity.PandaFileActivity"></activity>
+        <activity android:name=".ui.gungun.activity.GunVideo"></activity>
+        <activity android:name=".campaign.CampaignActivity"></activity>
+        <activity
+            android:name=".ui.broadcast.activity.BroadPlay"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait"></activity>
 
     </application>
 

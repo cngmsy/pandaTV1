@@ -1,330 +1,366 @@
 [
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\bd0432195b3ae7d629732d6ec16f63b0bf2a09dd\\output\\res\\layout\\design_navigation_item_subheader.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\bd0432195b3ae7d629732d6ec16f63b0bf2a09dd\\output\\res\\layout\\design_layout_snackbar_include.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_broad_web.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\activity_broad_web.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_bigimg.xml",
-        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\layout\\home_bigimg.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\broad_head_image.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\broad_head_image.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\notification_template_lines.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\notification_template_media_custom.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\notification_template_part_time.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\banner.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\db82ecd0356836ba24340d18d92a6241ba869411\\output\\res\\layout\\banner.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\notification_action_tombstone.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\11abb9ef32ac1e474e4b83708e7c0bd534369502\\output\\res\\layout\\design_navigation_item_header.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\bd0432195b3ae7d629732d6ec16f63b0bf2a09dd\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6f58b42f212e279dbb8fe72c3241784c55b4fc41\\output\\res\\layout\\listview_header.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gun_listview.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\gun_listview.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_live.xml",
-        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\layout\\fragment_live.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_video.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\fragment_video.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_control_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99ec2c96030a03935f01db34febd3f76f4401681\\output\\res\\layout\\video_control_view.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_live_live.xml",
-        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\layout\\fragment_live_live.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\net_wait_dialog.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\net_wait_dialog.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_search_view.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\11abb9ef32ac1e474e4b83708e7c0bd534369502\\output\\res\\layout\\design_layout_snackbar.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_header.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\a61ce19d4e27f30b0e9ed1b0b5a4b2bd15afaaa3\\output\\res\\layout\\listview_header.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\activity_set.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\bd0432195b3ae7d629732d6ec16f63b0bf2a09dd\\output\\res\\layout\\design_navigation_item.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\live_wonderful_item.xml",
-        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\layout\\live_wonderful_item.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loadmore_default_footer.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\5e91d5370b4d57e4c19b4bff3d4b0787d0ab98b5\\output\\res\\layout\\loadmore_default_footer.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_personal.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\activity_personal.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\bd0432195b3ae7d629732d6ec16f63b0bf2a09dd\\output\\res\\layout\\design_layout_snackbar.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\notification_template_lines_media.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_gun.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\fragment_gun.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forget.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\activity_forget.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_head.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\a61ce19d4e27f30b0e9ed1b0b5a4b2bd15afaaa3\\output\\res\\layout\\pull_to_refresh_head.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fullscreen.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99ec2c96030a03935f01db34febd3f76f4401681\\output\\res\\layout\\activity_fullscreen.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_area.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\home_area.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\notification_media_cancel_action.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_area_item.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\home_area_item.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\notification_template_big_media.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\notification_action.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6f58b42f212e279dbb8fe72c3241784c55b4fc41\\output\\res\\layout\\listview_footer.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_bigimg.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\home_bigimg.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_area.xml",
-        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\layout\\home_area.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\notification_media_action.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pandafile.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\activity_pandafile.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_play.xml",
-        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\layout\\activity_play.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\bd0432195b3ae7d629732d6ec16f63b0bf2a09dd\\output\\res\\layout\\design_layout_tab_text.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\11abb9ef32ac1e474e4b83708e7c0bd534369502\\output\\res\\layout\\design_navigation_menu.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\more_grid_item.xml",
-        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\layout\\more_grid_item.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cam_item.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\cam_item.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\a61ce19d4e27f30b0e9ed1b0b5a4b2bd15afaaa3\\output\\res\\layout\\listview_footer.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loadmore_default_footer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cd7b983801b57460d7840104623299556e34fd15\\output\\res\\layout\\loadmore_default_footer.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_screen_toolbar.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_broad.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\fragment_broad.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\bd0432195b3ae7d629732d6ec16f63b0bf2a09dd\\output\\res\\layout\\design_navigation_menu_item.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\activity_main2.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customdialog.xml",
-        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\layout\\customdialog.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gun_video.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\gun_video.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\activity_about.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_classic_default_header.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\5e91d5370b4d57e4c19b4bff3d4b0787d0ab98b5\\output\\res\\layout\\cube_ptr_classic_default_header.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_live.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\fragment_live.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_wonderful_live.xml",
-        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\layout\\fragment_wonderful_live.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_campaign.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\activity_campaign.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_area_item.xml",
-        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\layout\\home_area_item.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_history.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\activity_history.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\11abb9ef32ac1e474e4b83708e7c0bd534369502\\output\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\notification_template_icon_group.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\11abb9ef32ac1e474e4b83708e7c0bd534369502\\output\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_header.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\c111905d6437b0fa6dcae66234d2cd3e42ca11c9\\output\\res\\layout\\layout_header.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_classic_default_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cd7b983801b57460d7840104623299556e34fd15\\output\\res\\layout\\cube_ptr_classic_default_header.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\bd0432195b3ae7d629732d6ec16f63b0bf2a09dd\\output\\res\\layout\\design_layout_tab_icon.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\broadplay.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\broadplay.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
-        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\layout\\fragment_home.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\office_fragment.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\office_fragment.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\phone_fragment.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\phone_fragment.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\notification_template_media.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gun_head_image.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\gun_head_image.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_screen_simple.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_livess.xml",
-        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\layout\\fragment_livess.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_collection.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\activity_collection.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splendid_listview.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\splendid_listview.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_control_view.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\65975503f3435decd08b68cf10f8eacd732c61c7\\output\\res\\layout\\video_control_view.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\notification_template_big_media_custom.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\11abb9ef32ac1e474e4b83708e7c0bd534369502\\output\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\broad_recyclerview.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\broad_recyclerview.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\bd0432195b3ae7d629732d6ec16f63b0bf2a09dd\\output\\res\\layout\\design_navigation_item_separator.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_livess.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\fragment_livess.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\bd0432195b3ae7d629732d6ec16f63b0bf2a09dd\\output\\res\\layout\\design_menu_item_action_area.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\11abb9ef32ac1e474e4b83708e7c0bd534369502\\output\\res\\layout\\design_layout_tab_text.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\11abb9ef32ac1e474e4b83708e7c0bd534369502\\output\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\net_wait_dialog.xml",
-        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\layout\\net_wait_dialog.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_live_more.xml",
-        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\layout\\fragment_live_more.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\11abb9ef32ac1e474e4b83708e7c0bd534369502\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\bd0432195b3ae7d629732d6ec16f63b0bf2a09dd\\output\\res\\layout\\design_navigation_item_header.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_head.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6f58b42f212e279dbb8fe72c3241784c55b4fc41\\output\\res\\layout\\pull_to_refresh_head.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\bd0432195b3ae7d629732d6ec16f63b0bf2a09dd\\output\\res\\layout\\design_navigation_menu.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_live_video.xml",
-        "source": "E:\\AndroidSpace\\PandaChannel\\app\\src\\main\\res\\layout\\activity_live_video.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\11abb9ef32ac1e474e4b83708e7c0bd534369502\\output\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_footer.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\c111905d6437b0fa6dcae66234d2cd3e42ca11c9\\output\\res\\layout\\layout_footer.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\11abb9ef32ac1e474e4b83708e7c0bd534369502\\output\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\87c8231d77abdf1b2b0273fcc398daa205f81623\\output\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\11abb9ef32ac1e474e4b83708e7c0bd534369502\\output\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
-        "merged": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fullscreen.xml",
-        "source": "C:\\Users\\99477\\.android\\build-cache\\65975503f3435decd08b68cf10f8eacd732c61c7\\output\\res\\layout\\activity_fullscreen.xml"
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customdialog.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\customdialog.xml"
+    },
+    {
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_regist.xml",
+        "source": "F:\\Project_One\\PandaChannel\\app\\src\\main\\res\\layout\\activity_regist.xml"
+    },
+    {
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\banner.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\10d96b4712737bad248b9096cf0496b0fce404a0\\output\\res\\layout\\banner.xml"
+    },
+    {
+        "merged": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c909f7baffbbce00b0e018a31bdde549253c5c9\\output\\res\\layout\\notification_template_media.xml"
     }
 ]

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e8e8e8"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="40px"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="邮箱注册需要激活后才能登录"
+            android:textColor="@color/colorPrimary" />
+
+        <EditText
+            android:id="@+id/office_mailbox"
+            android:layout_width="match_parent"
+            android:layout_height="90px"
+            android:layout_marginTop="30px"
+            android:background="#fff"
+            android:hint="账号:请输入邮箱"
+            android:textColorHint="#e8e8e8" />
+        <TextView
+            android:id="@+id/mailbox_null"
+            android:visibility="invisible"
+            android:layout_marginTop="10px"
+            android:text="邮箱不能为空"
+            android:textColor="#ff0000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+        <EditText
+            android:id="@+id/office_psd"
+            android:layout_width="match_parent"
+            android:layout_height="90px"
+            android:layout_marginTop="30px"
+            android:background="#fff"
+            android:hint="请输入密码"
+            android:textColorHint="#e8e8e8" />
+        <TextView
+            android:id="@+id/password_null"
+            android:visibility="invisible"
+            android:layout_marginTop="10px"
+            android:text="密码不能为空"
+            android:textColor="#ff0000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+        <EditText
+            android:id="@+id/office_confirm"
+            android:layout_width="match_parent"
+            android:layout_height="90px"
+            android:layout_marginTop="30px"
+            android:background="#fff"
+            android:hint="请确认密码"
+            android:textColorHint="#e8e8e8" />
+        <TextView
+            android:id="@+id/confirm_null"
+            android:visibility="invisible"
+            android:layout_marginTop="10px"
+            android:text="确认密码不能为空"
+            android:textColor="#ff0000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30px"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/office_proving"
+                android:layout_width="400px"
+                android:layout_height="90px"
+                android:layout_weight="1"
+                android:background="#fff"
+                android:hint="请输入图片验证码"
+                android:textColorHint="#e8e8e8" />
+
+            <ImageView
+                android:background="#b7b7b7"
+                android:id="@+id/office_letter"
+                android:layout_marginLeft="30px"
+                android:layout_width="180px"
+                android:layout_height="90px" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="50px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+            <CheckBox
+                android:id="@+id/office_checkbox"
+                android:layout_width="60px"
+                android:layout_height="60px"
+                android:background="@drawable/selector_check"
+                android:button="@null"
+                android:checked="true" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20px"
+                android:textColor="@color/colorPrimary"
+                android:text="我已阅读并同意《央视网网络服务使用协议》"
+                />
+        </LinearLayout>
+        <Button
+            android:id="@+id/office_regist"
+            android:textColor="#fff"
+            android:text="注册"
+            android:layout_marginTop="50px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            />
+    </LinearLayout>
+</LinearLayout>
