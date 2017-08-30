@@ -19,15 +19,15 @@ import java.lang.Override;
 public class MainActivity_ViewBinding<T extends MainActivity> implements Unbinder {
   protected T target;
 
-  private View view2131558573;
+  private View view2131558599;
 
-  private View view2131558574;
+  private View view2131558600;
 
-  private View view2131558575;
+  private View view2131558601;
 
-  private View view2131558576;
+  private View view2131558602;
 
-  private View view2131558577;
+  private View view2131558603;
 
   @UiThread
   public MainActivity_ViewBinding(final T target, View source) {
@@ -41,7 +41,7 @@ public class MainActivity_ViewBinding<T extends MainActivity> implements Unbinde
     target.container = Utils.findRequiredViewAsType(source, R.id.container, "field 'container'", FrameLayout.class);
     view = Utils.findRequiredView(source, R.id.homePage, "field 'homePage' and method 'onClicks'");
     target.homePage = Utils.castView(view, R.id.homePage, "field 'homePage'", RadioButton.class);
-    view2131558573 = view;
+    view2131558599 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -50,7 +50,7 @@ public class MainActivity_ViewBinding<T extends MainActivity> implements Unbinde
     });
     view = Utils.findRequiredView(source, R.id.homePandaLive, "field 'homePandaLive' and method 'onClicks'");
     target.homePandaLive = Utils.castView(view, R.id.homePandaLive, "field 'homePandaLive'", RadioButton.class);
-    view2131558574 = view;
+    view2131558600 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -59,7 +59,7 @@ public class MainActivity_ViewBinding<T extends MainActivity> implements Unbinde
     });
     view = Utils.findRequiredView(source, R.id.homeRollVideo, "field 'homeRollVideo' and method 'onClicks'");
     target.homeRollVideo = Utils.castView(view, R.id.homeRollVideo, "field 'homeRollVideo'", RadioButton.class);
-    view2131558575 = view;
+    view2131558601 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -68,7 +68,7 @@ public class MainActivity_ViewBinding<T extends MainActivity> implements Unbinde
     });
     view = Utils.findRequiredView(source, R.id.homePandaBroadcast, "field 'homePandaBroadcast' and method 'onClicks'");
     target.homePandaBroadcast = Utils.castView(view, R.id.homePandaBroadcast, "field 'homePandaBroadcast'", RadioButton.class);
-    view2131558576 = view;
+    view2131558602 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -77,7 +77,7 @@ public class MainActivity_ViewBinding<T extends MainActivity> implements Unbinde
     });
     view = Utils.findRequiredView(source, R.id.homeLiveChina, "field 'homeLiveChina' and method 'onClicks'");
     target.homeLiveChina = Utils.castView(view, R.id.homeLiveChina, "field 'homeLiveChina'", RadioButton.class);
-    view2131558577 = view;
+    view2131558603 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -105,16 +105,16 @@ public class MainActivity_ViewBinding<T extends MainActivity> implements Unbinde
     target.homeLiveChina = null;
     target.homeBottomGroup = null;
 
-    view2131558573.setOnClickListener(null);
-    view2131558573 = null;
-    view2131558574.setOnClickListener(null);
-    view2131558574 = null;
-    view2131558575.setOnClickListener(null);
-    view2131558575 = null;
-    view2131558576.setOnClickListener(null);
-    view2131558576 = null;
-    view2131558577.setOnClickListener(null);
-    view2131558577 = null;
+    view2131558599.setOnClickListener(null);
+    view2131558599 = null;
+    view2131558600.setOnClickListener(null);
+    view2131558600 = null;
+    view2131558601.setOnClickListener(null);
+    view2131558601 = null;
+    view2131558602.setOnClickListener(null);
+    view2131558602 = null;
+    view2131558603.setOnClickListener(null);
+    view2131558603 = null;
 
     this.target = null;
   }

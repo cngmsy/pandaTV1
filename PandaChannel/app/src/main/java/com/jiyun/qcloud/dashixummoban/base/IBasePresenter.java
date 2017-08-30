@@ -6,4 +6,5 @@ package com.jiyun.qcloud.dashixummoban.base;
 
 public interface IBasePresenter {
     void start();
+    void second(String url);
 }

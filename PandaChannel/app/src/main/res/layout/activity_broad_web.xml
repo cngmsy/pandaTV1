@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
-
 <WebView
     android:id="@+id/broad_webview"
     android:layout_width="match_parent"
-    android:layout_height="1200px"></WebView>
+    android:layout_height="match_parent"
+    android:layout_above="@+id/linearLayout"></WebView>
+
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/linearLayout">
         <ImageView
             android:id="@+id/broad_collect"
-            android:layout_width="52px"
-            android:layout_height="52px"
+            android:layout_width="61px"
+            android:layout_height="61px"
             android:layout_marginLeft="300px"
             android:background="@drawable/personal_shoucang_img"
             />
@@ -25,4 +30,4 @@
             android:background="@drawable/pe_share_img"
             />
     </LinearLayout>
-</LinearLayout>
+</RelativeLayout>

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\AndroidSpace\\PandaChannel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+        "outputFile": "F:\\Project_One\\PandaChannel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 111
                 },
                 "from": {
-                    "file": "C:\\Users\\99477\\.android\\build-cache\\a61ce19d4e27f30b0e9ed1b0b5a4b2bd15afaaa3\\output\\res\\values-zh\\values-zh.xml",
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\6f58b42f212e279dbb8fe72c3241784c55b4fc41\\output\\res\\values-zh\\values-zh.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 175
                 },
                 "from": {
-                    "file": "C:\\Users\\99477\\.android\\build-cache\\a61ce19d4e27f30b0e9ed1b0b5a4b2bd15afaaa3\\output\\res\\values-zh\\values-zh.xml",
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\6f58b42f212e279dbb8fe72c3241784c55b4fc41\\output\\res\\values-zh\\values-zh.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 237
                 },
                 "from": {
-                    "file": "C:\\Users\\99477\\.android\\build-cache\\a61ce19d4e27f30b0e9ed1b0b5a4b2bd15afaaa3\\output\\res\\values-zh\\values-zh.xml",
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\6f58b42f212e279dbb8fe72c3241784c55b4fc41\\output\\res\\values-zh\\values-zh.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 290
                 },
                 "from": {
-                    "file": "C:\\Users\\99477\\.android\\build-cache\\a61ce19d4e27f30b0e9ed1b0b5a4b2bd15afaaa3\\output\\res\\values-zh\\values-zh.xml",
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\6f58b42f212e279dbb8fe72c3241784c55b4fc41\\output\\res\\values-zh\\values-zh.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 337
                 },
                 "from": {
-                    "file": "C:\\Users\\99477\\.android\\build-cache\\a61ce19d4e27f30b0e9ed1b0b5a4b2bd15afaaa3\\output\\res\\values-zh\\values-zh.xml",
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\6f58b42f212e279dbb8fe72c3241784c55b4fc41\\output\\res\\values-zh\\values-zh.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 383
                 },
                 "from": {
-                    "file": "C:\\Users\\99477\\.android\\build-cache\\a61ce19d4e27f30b0e9ed1b0b5a4b2bd15afaaa3\\output\\res\\values-zh\\values-zh.xml",
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\6f58b42f212e279dbb8fe72c3241784c55b4fc41\\output\\res\\values-zh\\values-zh.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 430
                 },
                 "from": {
-                    "file": "C:\\Users\\99477\\.android\\build-cache\\a61ce19d4e27f30b0e9ed1b0b5a4b2bd15afaaa3\\output\\res\\values-zh\\values-zh.xml",
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\6f58b42f212e279dbb8fe72c3241784c55b4fc41\\output\\res\\values-zh\\values-zh.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,

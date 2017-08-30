@@ -5,8 +5,8 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="19"
-        android:targetSdkVersion="26" />
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -24,15 +24,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="com.jiyun.qcloud.dashixummoban.ui.live.activity.VideoActivity"
-            android:configChanges="orientation|screenSize|keyboardHidden"
-            android:screenOrientation="landscape" />
-        <activity
-            android:name="com.jiyun.qcloud.dashixummoban.ui.live.activity.PlayVideoActivity"
-            android:configChanges="orientation|screenSize|keyboardHidden"
-            android:screenOrientation="landscape" />
-        //屏幕适配
+
         <meta-data
             android:name="design_width"
             android:value="768" />
@@ -40,6 +32,22 @@
             android:name="design_height"
             android:value="1280" />
 
+        <activity android:name="com.jiyun.qcloud.dashixummoban.activity.PersonalActivity" />
+        <activity android:name="com.jiyun.qcloud.dashixummoban.activity.LoginActivity" />
+        <activity android:name="com.jiyun.qcloud.dashixummoban.activity.RegistActivity" />
+        <activity android:name="com.jiyun.qcloud.dashixummoban.activity.ForgetActivity" />
+        <activity android:name="com.jiyun.qcloud.dashixummoban.activity.HistoryActivity" />
+        <activity android:name="com.jiyun.qcloud.dashixummoban.activity.CollectionActivity" />
+        <activity android:name="com.jiyun.qcloud.dashixummoban.activity.SetActivity" />
+        <activity android:name="com.jiyun.qcloud.dashixummoban.activity.AboutActivity" />
+        <activity android:name="com.jiyun.qcloud.dashixummoban.ui.broadcast.activity.BroadWebActivity" />
+        <activity android:name="com.jiyun.qcloud.dashixummoban.ui.gungun.activity.PandaFileActivity" />
+        <activity android:name="com.jiyun.qcloud.dashixummoban.ui.gungun.activity.GunVideo" />
+        <activity android:name="com.jiyun.qcloud.dashixummoban.campaign.CampaignActivity" />
+        <activity
+            android:name="com.jiyun.qcloud.dashixummoban.ui.broadcast.activity.BroadPlay"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait" />
         <activity
             android:name="fm.jiecao.jcvideoplayer_lib.JCFullScreenActivity"
             android:configChanges="orientation|keyboardHidden"

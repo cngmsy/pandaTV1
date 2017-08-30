@@ -17,5 +17,7 @@ public class HomeContract {
         void loadWebView();
     }
 
-    interface Presenter extends IBasePresenter {}
+    interface Presenter extends IBasePresenter {
+
+    }
 }

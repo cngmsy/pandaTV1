@@ -23,13 +23,13 @@ import butterknife.OnClick;
 
 public class BroadWebActivity extends BaseActivity {
 
-    @BindView(R.id.broad_webview)
-    WebView broadWebview;
     @BindView(R.id.broad_collect)
     ImageView broadCollect;
     @BindView(R.id.broad_share)
     ImageView broadShare;
-    boolean flags=false;
+    boolean flags = false;
+    @BindView(R.id.broad_webview)
+    WebView broadWebview;
 
     @Override
     protected int getLayoutId() {
@@ -84,10 +84,6 @@ public class BroadWebActivity extends BaseActivity {
 
     }
 
-    private void init() {
-
-    }
-
     @Override
     protected void initView() {
 
@@ -109,8 +105,8 @@ public class BroadWebActivity extends BaseActivity {
                     broadCollect.setImageResource(R.drawable.collect_no);
                     Toast.makeText(App.mBaseActivity, "取消收藏", Toast.LENGTH_SHORT).show();
                     flags = false;
-                }else {
-                    flags=true;
+                } else {
+                    flags = true;
                     broadCollect.setImageResource(R.drawable.collect_yes);
                     Toast.makeText(App.mBaseActivity, "收藏成功", Toast.LENGTH_SHORT).show();
                 }

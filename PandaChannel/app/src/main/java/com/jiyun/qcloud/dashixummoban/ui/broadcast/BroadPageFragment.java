@@ -1,38 +1,38 @@
 package com.jiyun.qcloud.dashixummoban.ui.broadcast;
 
-import android.content.Intent;
-import android.os.Bundle;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
-import android.util.Log;
-import android.view.LayoutInflater;
-import android.view.View;
-import android.view.ViewGroup;
-import android.widget.ImageView;
-import android.widget.TextView;
+        import android.content.Intent;
+        import android.os.Bundle;
+        import android.support.v7.widget.LinearLayoutManager;
+        import android.support.v7.widget.RecyclerView;
+        import android.util.Log;
+        import android.view.LayoutInflater;
+        import android.view.View;
+        import android.view.ViewGroup;
+        import android.widget.ImageView;
+        import android.widget.TextView;
 
-import com.bumptech.glide.Glide;
-import com.jcodecraeer.xrecyclerview.XRecyclerView;
-import com.jiyun.qcloud.dashixummoban.R;
-import com.jiyun.qcloud.dashixummoban.app.App;
-import com.jiyun.qcloud.dashixummoban.base.BaseFragment;
-import com.jiyun.qcloud.dashixummoban.ui.broadcast.activity.BroadPlay;
-import com.jiyun.qcloud.dashixummoban.ui.broadcast.adapter.BroadAdapter;
-import com.jiyun.qcloud.dashixummoban.ui.broadcast.bean.BroadListBean;
-import com.jiyun.qcloud.dashixummoban.ui.broadcast.bean.PandaBroad;
+        import com.bumptech.glide.Glide;
+        import com.jcodecraeer.xrecyclerview.XRecyclerView;
+        import com.jiyun.qcloud.dashixummoban.R;
+        import com.jiyun.qcloud.dashixummoban.app.App;
+        import com.jiyun.qcloud.dashixummoban.base.BaseFragment;
+        import com.jiyun.qcloud.dashixummoban.ui.broadcast.activity.BroadPlay;
+        import com.jiyun.qcloud.dashixummoban.ui.broadcast.adapter.BroadAdapter;
+        import com.jiyun.qcloud.dashixummoban.ui.broadcast.bean.BroadListBean;
+        import com.jiyun.qcloud.dashixummoban.ui.broadcast.bean.PandaBroad;
 
-import java.util.ArrayList;
-import java.util.List;
+        import java.util.ArrayList;
+        import java.util.List;
 
-import butterknife.BindView;
-import butterknife.ButterKnife;
-import butterknife.Unbinder;
+        import butterknife.BindView;
+        import butterknife.ButterKnife;
+        import butterknife.Unbinder;
 
 /**
  * Created by Administrator on 2017/8/23 0023.
  */
 
-public class BroadPageFragment extends BaseFragment implements XRecyclerView.LoadingListener, BroadContract.View{
+public class BroadPageFragment extends BaseFragment implements XRecyclerView.LoadingListener, BroadContract.View {
     @BindView(R.id.broad_recyclerview)
     XRecyclerView broadRecyclerview;
     private BroadContract.Presenter presenter;
@@ -50,10 +50,6 @@ public class BroadPageFragment extends BaseFragment implements XRecyclerView.Loa
         return R.layout.fragment_broad;
     }
 
-    @Override
-    protected void initData() {
-        presenter.start();
-    }
 
     @Override
     protected void initView(View view) {
@@ -145,7 +141,11 @@ public class BroadPageFragment extends BaseFragment implements XRecyclerView.Loa
         List<BroadListBean.ListBean> list1 = listBean.getList();
         list.addAll(list1);
         adapter.notifyDataSetChanged();
+    }
 
+    @Override
+    protected void initData() {
+        presenter.start();
     }
 
     @Override

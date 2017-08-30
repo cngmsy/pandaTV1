@@ -1,128 +1,158 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:2:1-39:12
+ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:2:1-48:12
 	package
-		ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:3:5-45
-		INJECTED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml
-		INJECTED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml
-		INJECTED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml
-		INJECTED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:7:5-37:19
-MERGED from [com.chanven.lib:cptr:1.1.0] C:\Users\99477\.android\build-cache\5e91d5370b4d57e4c19b4bff3d4b0787d0ab98b5\output\AndroidManifest.xml:11:5-14:19
-MERGED from [com.jwenfeng.pulltorefresh:library:1.0.3] C:\Users\99477\.android\build-cache\c111905d6437b0fa6dcae66234d2cd3e42ca11c9\output\AndroidManifest.xml:11:5-15:19
-MERGED from [com.jcodecraeer:xrecyclerview:1.3.2] C:\Users\99477\.android\build-cache\a61ce19d4e27f30b0e9ed1b0b5a4b2bd15afaaa3\output\AndroidManifest.xml:11:5-20
-MERGED from [com.android.support:design:23.4.0] C:\Users\99477\.android\build-cache\bd0432195b3ae7d629732d6ec16f63b0bf2a09dd\output\AndroidManifest.xml:22:5-20
-MERGED from [fm.jiecao:jiecaovideoplayer:2.0] C:\Users\99477\.android\build-cache\65975503f3435decd08b68cf10f8eacd732c61c7\output\AndroidManifest.xml:11:5-19:19
-MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\99477\.android\build-cache\87c8231d77abdf1b2b0273fcc398daa205f81623\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.0.1] C:\Users\99477\.android\build-cache\12a346b3000c31e32d05c7956df557a51713481c\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\99477\.android\build-cache\2cf2fc58cb8b72a5b8b1e88571948b3f3efe00bf\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\99477\.android\build-cache\5c4fcf7063343335b87722720a3f0f3f982955c4\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\99477\.android\build-cache\8bd710efabb8f58302d61cf0825577293abed8da\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\99477\.android\build-cache\166eef2494a7955025e80f564837bdb39a4dc2bd\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\99477\.android\build-cache\5d1506ab73170d4233f0eb1d4b50aa271fab39f3\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\99477\.android\build-cache\c00df348e0426931a5bca30df396dc18d5dea4cd\output\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-compat:25.0.1] C:\Users\99477\.android\build-cache\81e40dcb7a05ae4ed3c35dc57a0fd7d8b7fb5d6b\output\AndroidManifest.xml:25:5-20
+ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:7:5-46:19
+MERGED from [com.chanven.lib:cptr:1.1.0] C:\Users\Administrator\.android\build-cache\cd7b983801b57460d7840104623299556e34fd15\output\AndroidManifest.xml:11:5-14:19
+MERGED from [com.jcodecraeer:xrecyclerview:1.3.2] C:\Users\Administrator\.android\build-cache\6f58b42f212e279dbb8fe72c3241784c55b4fc41\output\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\Administrator\.android\build-cache\11abb9ef32ac1e474e4b83708e7c0bd534369502\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Administrator\.android\build-cache\4c909f7baffbbce00b0e018a31bdde549253c5c9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Administrator\.android\build-cache\6378e99af1e43646292bfb57bcd8cb0af1537993\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Administrator\.android\build-cache\2ab4fb7a4f74c68ade804c8867a95fd5a4ffdeac\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Administrator\.android\build-cache\697fb6966d8d7f2834da02a11c4583d949e9c0c9\output\AndroidManifest.xml:22:5-20
+MERGED from [fm.jiecao:jiecaovideoplayer:2.0] C:\Users\Administrator\.android\build-cache\99ec2c96030a03935f01db34febd3f76f4401681\output\AndroidManifest.xml:11:5-19:19
+MERGED from [com.allenliu.badgeview:library:1.0.4] C:\Users\Administrator\.android\build-cache\7af30b4a1366481ad53fac0efcf666157dc2fb23\output\AndroidManifest.xml:11:5-14:19
 	android:label
-		ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:11:9-41
 	android:supportsRtl
-		ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:12:9-35
 	android:allowBackup
-		ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:9:9-35
 	android:icon
-		ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:10:9-43
 	android:theme
-		ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:13:9-40
 	android:name
-		ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:8:9-32
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:8:9-32
 activity#com.jiyun.qcloud.dashixummoban.main.MainActivity
-ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:14:9-20:20
+ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:14:19-52
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:14:19-52
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:18:27-74
-activity#com.jiyun.qcloud.dashixummoban.ui.live.activity.VideoActivity
-ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:21:9-24:53
-	android:screenOrientation
-		ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:24:13-50
-	android:configChanges
-		ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:23:13-74
-	android:name
-		ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:22:13-59
-activity#com.jiyun.qcloud.dashixummoban.ui.live.activity.PlayVideoActivity
-ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:25:9-28:53
-	android:screenOrientation
-		ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:28:13-50
-	android:configChanges
-		ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:27:13-74
-	android:name
-		ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:26:13-63
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:18:27-74
 meta-data#design_width
-ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:30:9-32:35
+ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:22:9-24:35
 	android:value
-		ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:32:13-32
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:24:13-32
 	android:name
-		ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:31:13-40
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:23:13-40
 meta-data#design_height
-ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:33:9-35:36
+ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:25:9-27:36
 	android:value
-		ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:35:13-33
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:27:13-33
 	android:name
-		ADDED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml:34:13-41
-uses-sdk
-INJECTED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.github.orhanobut:logger:1.12] C:\Users\99477\.android\build-cache\956acdfe4c9da859c07eccca5a251a3cab464fb2\output\AndroidManifest.xml:6:5-8:41
-MERGED from [com.android.support:multidex:1.0.1] C:\Users\99477\.android\build-cache\81153cb9ae559d57c3704e5ca9d2ce58c2e0e6d7\output\AndroidManifest.xml:18:5-42
-MERGED from [com.chanven.lib:cptr:1.1.0] C:\Users\99477\.android\build-cache\5e91d5370b4d57e4c19b4bff3d4b0787d0ab98b5\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.jwenfeng.pulltorefresh:library:1.0.3] C:\Users\99477\.android\build-cache\c111905d6437b0fa6dcae66234d2cd3e42ca11c9\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.youth.banner:banner:1.4.9] C:\Users\99477\.android\build-cache\db82ecd0356836ba24340d18d92a6241ba869411\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.jude:rollviewpager:1.2.9] C:\Users\99477\.android\build-cache\f819715f8d842ee92744758fa759bed063ec1070\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.jcodecraeer:xrecyclerview:1.3.2] C:\Users\99477\.android\build-cache\a61ce19d4e27f30b0e9ed1b0b5a4b2bd15afaaa3\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:design:23.4.0] C:\Users\99477\.android\build-cache\bd0432195b3ae7d629732d6ec16f63b0bf2a09dd\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\99477\.android\build-cache\9cbb43feb2bdb194fc135c2a2ba835eb2e07126e\output\AndroidManifest.xml:20:5-43
-MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\99477\.android\build-cache\cbf797e8664d31f0d4f34d3bff4b4181fc45339a\output\AndroidManifest.xml:5:5-43
-MERGED from [fm.jiecao:jiecaovideoplayer:2.0] C:\Users\99477\.android\build-cache\65975503f3435decd08b68cf10f8eacd732c61c7\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.zhy:autolayout:1.4.5] C:\Users\99477\.android\build-cache\979cf12b1507028cd713d807627e515aaacf4900\output\AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\99477\.android\build-cache\87c8231d77abdf1b2b0273fcc398daa205f81623\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.0.1] C:\Users\99477\.android\build-cache\12a346b3000c31e32d05c7956df557a51713481c\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\99477\.android\build-cache\2cf2fc58cb8b72a5b8b1e88571948b3f3efe00bf\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\99477\.android\build-cache\5c4fcf7063343335b87722720a3f0f3f982955c4\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\99477\.android\build-cache\8bd710efabb8f58302d61cf0825577293abed8da\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\99477\.android\build-cache\166eef2494a7955025e80f564837bdb39a4dc2bd\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\99477\.android\build-cache\5d1506ab73170d4233f0eb1d4b50aa271fab39f3\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\99477\.android\build-cache\c00df348e0426931a5bca30df396dc18d5dea4cd\output\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-compat:25.0.1] C:\Users\99477\.android\build-cache\81e40dcb7a05ae4ed3c35dc57a0fd7d8b7fb5d6b\output\AndroidManifest.xml:21:5-23:58
-	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.0.1] C:\Users\99477\.android\build-cache\87c8231d77abdf1b2b0273fcc398daa205f81623\output\AndroidManifest.xml:23:9-75
-	android:targetSdkVersion
-		INJECTED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml
-		INJECTED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml
-	android:minSdkVersion
-		INJECTED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml
-		INJECTED from E:\AndroidSpace\PandaChannel\app\src\main\AndroidManifest.xml
-activity#fm.jiecao.jcvideoplayer_lib.JCFullScreenActivity
-ADDED from [fm.jiecao:jiecaovideoplayer:2.0] C:\Users\99477\.android\build-cache\65975503f3435decd08b68cf10f8eacd732c61c7\output\AndroidManifest.xml:15:9-18:53
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:26:13-41
+activity#com.jiyun.qcloud.dashixummoban.activity.PersonalActivity
+ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:29:9-72
+	android:name
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:29:19-60
+activity#com.jiyun.qcloud.dashixummoban.activity.LoginActivity
+ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:30:9-69
+	android:name
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:30:19-57
+activity#com.jiyun.qcloud.dashixummoban.activity.RegistActivity
+ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:31:9-70
+	android:name
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:31:19-58
+activity#com.jiyun.qcloud.dashixummoban.activity.ForgetActivity
+ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:32:9-70
+	android:name
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:32:19-58
+activity#com.jiyun.qcloud.dashixummoban.activity.HistoryActivity
+ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:33:19-59
+activity#com.jiyun.qcloud.dashixummoban.activity.CollectionActivity
+ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:34:9-74
+	android:name
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:34:19-62
+activity#com.jiyun.qcloud.dashixummoban.activity.SetActivity
+ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:35:9-67
+	android:name
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:35:19-55
+activity#com.jiyun.qcloud.dashixummoban.activity.AboutActivity
+ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:36:9-69
+	android:name
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:36:19-57
+activity#com.jiyun.qcloud.dashixummoban.ui.broadcast.activity.BroadWebActivity
+ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:37:9-85
+	android:name
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:37:19-73
+activity#com.jiyun.qcloud.dashixummoban.ui.gungun.activity.PandaFileActivity
+ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:38:9-83
+	android:name
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:38:19-71
+activity#com.jiyun.qcloud.dashixummoban.ui.gungun.activity.GunVideo
+ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:39:9-74
+	android:name
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:39:19-62
+activity#com.jiyun.qcloud.dashixummoban.campaign.CampaignActivity
+ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:40:9-72
+	android:name
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:40:19-60
+activity#com.jiyun.qcloud.dashixummoban.ui.broadcast.activity.BroadPlay
+ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:41:9-44:61
 	android:screenOrientation
-		ADDED from [fm.jiecao:jiecaovideoplayer:2.0] C:\Users\99477\.android\build-cache\65975503f3435decd08b68cf10f8eacd732c61c7\output\AndroidManifest.xml:18:13-50
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:44:13-49
 	android:configChanges
-		ADDED from [fm.jiecao:jiecaovideoplayer:2.0] C:\Users\99477\.android\build-cache\65975503f3435decd08b68cf10f8eacd732c61c7\output\AndroidManifest.xml:17:13-63
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:43:13-48
 	android:name
-		ADDED from [fm.jiecao:jiecaovideoplayer:2.0] C:\Users\99477\.android\build-cache\65975503f3435decd08b68cf10f8eacd732c61c7\output\AndroidManifest.xml:16:13-76
+		ADDED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml:42:13-60
+uses-sdk
+INJECTED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.github.orhanobut:logger:1.12] C:\Users\Administrator\.android\build-cache\677dcdabdc6d83a6ccfd625d3f0b23e0890bbdc2\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Administrator\.android\build-cache\d3e5b5158c2651bb67c55e203cd160ba7811fb4f\output\AndroidManifest.xml:18:5-42
+MERGED from [com.chanven.lib:cptr:1.1.0] C:\Users\Administrator\.android\build-cache\cd7b983801b57460d7840104623299556e34fd15\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.youth.banner:banner:1.4.9] C:\Users\Administrator\.android\build-cache\10d96b4712737bad248b9096cf0496b0fce404a0\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jcodecraeer:xrecyclerview:1.3.2] C:\Users\Administrator\.android\build-cache\6f58b42f212e279dbb8fe72c3241784c55b4fc41\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:23.4.0] C:\Users\Administrator\.android\build-cache\11abb9ef32ac1e474e4b83708e7c0bd534369502\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Administrator\.android\build-cache\725b1f31569a81b23932bfc83a935154c0cda517\output\AndroidManifest.xml:20:5-43
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\Administrator\.android\build-cache\4593150ddd54474df25747579731bb0a57407211\output\AndroidManifest.xml:5:5-43
+MERGED from [com.zhy:autolayout:1.4.5] C:\Users\Administrator\.android\build-cache\c40f267bc22fd09603918248d592fd7aecf72333\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Administrator\.android\build-cache\4c909f7baffbbce00b0e018a31bdde549253c5c9\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Administrator\.android\build-cache\6378e99af1e43646292bfb57bcd8cb0af1537993\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Administrator\.android\build-cache\2ab4fb7a4f74c68ade804c8867a95fd5a4ffdeac\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Administrator\.android\build-cache\697fb6966d8d7f2834da02a11c4583d949e9c0c9\output\AndroidManifest.xml:20:5-43
+MERGED from [fm.jiecao:jiecaovideoplayer:2.0] C:\Users\Administrator\.android\build-cache\99ec2c96030a03935f01db34febd3f76f4401681\output\AndroidManifest.xml:7:5-9:41
+MERGED from [se.emilsjolander:stickylistheaders:2.7.0] C:\Users\Administrator\.android\build-cache\9254b5445ecbbdf38c8952c4b1874bea85b7e069\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.allenliu.badgeview:library:1.0.4] C:\Users\Administrator\.android\build-cache\7af30b4a1366481ad53fac0efcf666157dc2fb23\output\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Administrator\.android\build-cache\4c909f7baffbbce00b0e018a31bdde549253c5c9\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project_One\PandaChannel\app\src\main\AndroidManifest.xml
+activity#fm.jiecao.jcvideoplayer_lib.JCFullScreenActivity
+ADDED from [fm.jiecao:jiecaovideoplayer:2.0] C:\Users\Administrator\.android\build-cache\99ec2c96030a03935f01db34febd3f76f4401681\output\AndroidManifest.xml:15:9-18:53
+	android:screenOrientation
+		ADDED from [fm.jiecao:jiecaovideoplayer:2.0] C:\Users\Administrator\.android\build-cache\99ec2c96030a03935f01db34febd3f76f4401681\output\AndroidManifest.xml:18:13-50
+	android:configChanges
+		ADDED from [fm.jiecao:jiecaovideoplayer:2.0] C:\Users\Administrator\.android\build-cache\99ec2c96030a03935f01db34febd3f76f4401681\output\AndroidManifest.xml:17:13-63
+	android:name
+		ADDED from [fm.jiecao:jiecaovideoplayer:2.0] C:\Users\Administrator\.android\build-cache\99ec2c96030a03935f01db34febd3f76f4401681\output\AndroidManifest.xml:16:13-76
